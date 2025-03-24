@@ -522,7 +522,7 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
-							"path": "slides/slide_03_smart_object_layer_photo3_size_1145x1145_1.png",
+							"path": "slides/slide_03_smart_object_layer_photo3_size_801x801_1.png",
 							"stage": 0
 						}
 					],
@@ -584,7 +584,7 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
-							"path": "slides/slide_03_smart_object_layer_photo2_size_1145x1145_1.png",
+							"path": "slides/slide_03_smart_object_layer_photo2_size_801x801_1.png",
 							"stage": 0
 						}
 					],
@@ -646,7 +646,7 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
-							"path": "slides/slide_03_smart_object_layer_photo1_size_1145x1145_1.png",
+							"path": "slides/slide_03_smart_object_layer_photo1_size_801x801_1.png",
 							"stage": 0
 						}
 					],
@@ -1000,8 +1000,8 @@
 				0.0
 			],
 			"scl": [
-				1145.0,
-				1145.0,
+				801.0,
+				801.0,
 				1.0
 			]
 		},
@@ -1018,8 +1018,8 @@
 				0.0
 			],
 			"scl": [
-				1145.0,
-				1145.0,
+				801.0,
+				801.0,
 				1.0
 			]
 		},
@@ -1036,8 +1036,8 @@
 				0.0
 			],
 			"scl": [
-				1145.0,
-				1145.0,
+				801.0,
+				801.0,
 				1.0
 			]
 		},

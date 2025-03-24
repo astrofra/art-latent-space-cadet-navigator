@@ -560,7 +560,7 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
-							"path": "slides/slide_01_smart_object_layer_logos_size_1409x347_1.png",
+							"path": "slides/slide_01_smart_object_layer_logos_size_1531x377_1.png",
 							"stage": 0
 						}
 					],
@@ -860,7 +860,7 @@
 		{
 			"parent": 0,
 			"pos": [
-				-999.5,
+				-978.5,
 				-607.5,
 				-0.05999999865889549
 			],
@@ -870,8 +870,8 @@
 				0.0
 			],
 			"scl": [
-				1409.0,
-				347.0,
+				1531.0,
+				377.0,
 				1.0
 			]
 		},
