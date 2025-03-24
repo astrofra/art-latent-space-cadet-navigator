@@ -6,7 +6,7 @@ _aka_ `DoppleRender, the exhibition`
 
 This project allows viewers to explore a curated selection of AI-generated visuals created by navigating through the latent space of a generative model. These synthetic images are derived from original photographs and transformed into alternative realities that offer new perspectives on time, space, and visual memory.
 
-![hero image](hero-image.png)
+![hero image](img/hero-image.png)
 
 ## Overview
 
@@ -33,5 +33,5 @@ Want to dive deeper?
 
 Created by [François Gutherz](https://github.com/astrofra)  
 Supported by [Crous Orléans-Tours](https://www.crous-orleans-tours.fr/) & JACES 2025  
-(The presentation system that support this interactive kiosk is part of a VAE Master Research in Digital Arts - [Paris 8](https://www.ati-paris8.fr/))
+(The system that supports this interactive kiosk is part of a VAE Master Research in Digital Arts - [Paris 8](https://www.ati-paris8.fr/))
 
