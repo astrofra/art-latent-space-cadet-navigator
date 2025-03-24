@@ -6,6 +6,8 @@ _aka_ `DoppleRender, the exhibition`
 
 This project allows viewers to explore a curated selection of AI-generated visuals created by navigating through the latent space of a generative model. These synthetic images are derived from original photographs and transformed into alternative realities that offer new perspectives on time, space, and visual memory.
 
+![hero image](hero-image.png)
+
 ## Overview
 
 This is a lightweight interactive kiosk interface, originally designed for an art exhibition shown at CROUS Orléans in March 2025. It runs on any recent Windows-compliant PC and includes:
