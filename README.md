@@ -33,6 +33,6 @@ Want to dive deeper?
 
 Created by [François Gutherz](https://github.com/astrofra)<br>
 Part of this project was first presented during [Matricule Bis 2023](https://sites.google.com/view/matricule-bis-2023)<br>
-Supported by [Crous Orléans-Tours](https://www.crous-orleans-tours.fr/) & JACES 2025<br>
+Supported by [Crous Orléans-Tours](https://www.crous-orleans-tours.fr/) & [JACES 2025](https://www.journees-arts-culture-sup.fr/)<br>
 (The system that supports this interactive kiosk is part of a VAE Master Research in Digital Arts - [Paris 8](https://www.ati-paris8.fr/))
 
