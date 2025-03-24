@@ -25,7 +25,7 @@ This navigator is part of the *DoppleRender* exhibition. The installation offers
 ## Explore
 
 Want to dive deeper?
-- [Instagram feed](https://www.instagram.com/latent.space.cadet/)
+- [Instagram feed](https://www.instagram.com/latentspacecadet/)
 - [BlueSky profile](https://bsky.app/profile/latentspacecadet.bsky.social)
 - [GitHub Repo](https://github.com/astrofra/latent-space-cadet-navigator)
 
