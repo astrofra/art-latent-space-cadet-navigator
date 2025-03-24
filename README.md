@@ -31,7 +31,8 @@ Want to dive deeper?
 
 ## Credits
 
-Created by [François Gutherz](https://github.com/astrofra)  
+Created by [François Gutherz](https://github.com/astrofra)
+Part of this project was first presented during [Matricule Bis 2024](https://sites.google.com/view/matriculebis2024/)
 Supported by [Crous Orléans-Tours](https://www.crous-orleans-tours.fr/) & JACES 2025  
 (The system that supports this interactive kiosk is part of a VAE Master Research in Digital Arts - [Paris 8](https://www.ati-paris8.fr/))
 
