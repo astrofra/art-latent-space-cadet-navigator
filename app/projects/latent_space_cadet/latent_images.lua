@@ -1,0 +1,32 @@
+-- Images from the latent space cadet project
+
+latent_images = {
+    {images = {"00_glasses_0.png", "00_glasses_1.png"}, title = "Ceux qui avaient bien besoin de verres progressifs, Tokyo, 2016."},
+    {images = {"01_bike_0.png", "01_bike_1.png"}, title = "Scène de nuit, Tokyo, 2016."},
+    {images = {"02_boulevard_0.png", "02_boulevard_1.png"}, title = "Boulevard du crépuscule, coupure du Monde. Gloria Swanson/Erich von Stroheim."},
+    {images = {"03_mom_0.png", "03_mom_1.png"}, title = "Photo de famille, le Grand-Travers, circa 1980."},
+    {images = {"04_blankenberge_0.png", "04_blankenberge_1.png"}, title = "Belgium Pier, Blankenberghe, 2023."},
+    {images = {"05_paris8_0.png", "05_paris8_1.png"}, title = "Université Paris 8, Saint-Denis, 2023."},
+    {images = {"06_pola_0.png", "06_pola_1.png"}, title = "Polaroïd aléatoire, Montpellier, circa 1995."},
+    {images = {"07_outline_0.png", "07_outline_1.png"}, title = "Outline demoparty, Willemsoord, 2015."},
+    {images = {"08_manif_0.png", "08_manif_1.png"}, title = "Mouvement social contre la réforme des retraites, Orléans, 2023."},
+    {images = {"09_ihs_0.png", "09_ihs_1.png"}, title = "Chapelle Sainte-Croix, Saint-Cirq-Lapopie, 2022."},
+    {images = {"10_montpellier_0.png", "10_montpellier_1.png"}, title = "Quartier de l'Ecusson, Montpellier, 2023."},
+    {images = {"11_towerofthesun_0.png", "11_towerofthesun_1.png"}, title = "The Tower of the Sun, Osaka, 2016."},
+    {images = {"12_compostelle_0.png", "12_compostelle_1.png"}, title = "Chemin de Compostelle, Ardèche, 2022."},
+    {images = {"13_otaru_0.png", "13_otaru_1.png"}, title = "Otaru, Hokkaido, 2001."},
+    {images = {"14_rothko_0.png", "14_rothko_1.png"}, title = "Exposition Mark Rothko, Fondation Louis Vuitton, 2023."},
+    {images = {"15_foam_0.png", "15_foam_1.png"}, title = "Exposition Ara Güler, Foam, Amsterdam, 2023."},
+    {images = {"16_foam_mutation_0.png", "16_foam_mutation_1.png"}, title = "Exposition Ara Güler, mutations 1 et 2."},
+    {images = {"17_foam_mutation_2.png", "17_foam_mutation_3.png"}, title = "Exposition Ara Güler, mutations 3 et 4."},
+    {images = {"18_teddy_0.png", "18_teddy_1.png"}, title = "Tiers lieu 'Le Moule à Gaufres', Orléans, 2024."},
+    {images = {"19_bkk_0.png", "19_bkk_1.png"}, title = "Thewarat Market, Bangkok, 2003."},
+    {images = {"20_machine_0.png", "20_machine_1.png"}, title = "Canal du Rhône à Sète, Villeneuve-lès-Maguelone, 2023."},
+    {images = {"21_bistro_0.png", "21_bistro_1.png"}, title = "Bar 'Le Xaintrailles', Orléans, 2022."},
+    {images = {"22_pipes_0.png", "22_pipes_1.png"}, title = "Passerelle sur la Bouble, Chantelle, 2022."},
+    {images = {"23_raw_0.png", "23_raw_1.png"}, title = "Fichier non-graphique ouvert dans Photoshop (format RAW), 2000."},
+    {images = {"24_ndsm_0.png", "24_ndsm_1.png"}, title = "Tiers lieu 'NDSM', Amsterdam, 2023."},
+    {images = {"25_artschool_0.png", "25_artschool_1.png"}, title = "Installation artistique au Mediacollege, Amsterdam, 2023."},
+    {images = {"26_cables_0.png", "26_cables_1.png"}, title = "Urbex sur site ferroviaire, Potsdam, 2010."},
+    {images = {"27_lenses_0.png", "27_lenses_1.png"}, title = "Tiers lieu 'Le 108', Orléans, 2023."}
+}
