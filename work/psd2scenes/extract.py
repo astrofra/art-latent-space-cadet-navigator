@@ -169,7 +169,7 @@ def walk_psd_layer(layer, tab, id, description):
         # return description
         
 
-for slide_idx in range(0, 3):
+for slide_idx in range(0, 5):
     slide_name = "slide_" + f"{slide_idx + 1:02}"
 
     tab_size = 4
