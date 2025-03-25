@@ -1,7 +1,7 @@
 slide_res_x, slide_res_y = 4000, 2250 -- in pixels
 slide_width = 10.0 -- in meters
 slide_height = (slide_width * slide_res_y) / slide_res_x -- in meters
-max_slides = 3
+max_slides = 5
 bg_color = hg.Color(78/255.0, 81/255.0, 86/255.0, 1.0)
 
 slide_type = {

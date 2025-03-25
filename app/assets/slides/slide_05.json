@@ -1,0 +1,174 @@
+[
+    {
+        "name": "smart_object_layer_bg_size_4001x2251",
+        "human_name": "bg",
+        "index": "1000",
+        "kind": "smartobject",
+        "text": "",
+        "bitmap": "slides/common_smart_object_layer_bg.png",
+        "bbox": [
+            0,
+            0,
+            4001,
+            2251
+        ]
+    },
+    {
+        "name": "type_layer_text3_size_206x71",
+        "human_name": "text3",
+        "index": "2001",
+        "kind": "type",
+        "text": "",
+        "bitmap": "slides/slide_05_type_layer_text3_size_206x71_1.png",
+        "bbox": [
+            2996,
+            1899,
+            3202,
+            1970
+        ]
+    },
+    {
+        "name": "type_layer_text2_size_251x90",
+        "human_name": "text2",
+        "index": "2002",
+        "kind": "type",
+        "text": "",
+        "bitmap": "slides/slide_05_type_layer_text2_size_251x90_1.png",
+        "bbox": [
+            1877,
+            1899,
+            2128,
+            1989
+        ]
+    },
+    {
+        "name": "type_layer_text1_size_326x90",
+        "human_name": "text1",
+        "index": "2003",
+        "kind": "type",
+        "text": "",
+        "bitmap": "slides/slide_05_type_layer_text1_size_326x90_1.png",
+        "bbox": [
+            679,
+            1899,
+            1005,
+            1989
+        ]
+    },
+    {
+        "name": "type_layer_text0_size_677x71",
+        "human_name": "text0",
+        "index": "2004",
+        "kind": "type",
+        "text": "",
+        "bitmap": "slides/slide_05_type_layer_text0_size_677x71_1.png",
+        "bbox": [
+            1663,
+            156,
+            2340,
+            227
+        ]
+    },
+    {
+        "name": "smart_object_layer_photo3_size_801x801",
+        "human_name": "photo3",
+        "index": "2005",
+        "kind": "smartobject",
+        "text": "",
+        "bitmap": "slides/slide_05_smart_object_layer_photo3_size_801x801_1.png",
+        "bbox": [
+            2697,
+            1185,
+            3498,
+            1986
+        ]
+    },
+    {
+        "name": "smart_object_layer_photo2_size_801x801",
+        "human_name": "photo2",
+        "index": "2006",
+        "kind": "smartobject",
+        "text": "",
+        "bitmap": "slides/slide_05_smart_object_layer_photo2_size_801x801_1.png",
+        "bbox": [
+            1586,
+            1185,
+            2387,
+            1986
+        ]
+    },
+    {
+        "name": "smart_object_layer_photo1_size_801x801",
+        "human_name": "photo1",
+        "index": "2007",
+        "kind": "smartobject",
+        "text": "",
+        "bitmap": "slides/slide_05_smart_object_layer_photo1_size_801x801_1.png",
+        "bbox": [
+            441,
+            1185,
+            1242,
+            1986
+        ]
+    },
+    {
+        "name": "smart_object_layer_photo0_size_1078x1078",
+        "human_name": "photo0",
+        "index": "2008",
+        "kind": "smartobject",
+        "text": "",
+        "bitmap": "slides/slide_05_smart_object_layer_photo0_size_1078x1078_1.png",
+        "bbox": [
+            1447,
+            216,
+            2525,
+            1294
+        ]
+    },
+    {
+        "name": "group_slide14_size_3057x1833",
+        "human_name": "_slide 14",
+        "index": "1001",
+        "kind": "group",
+        "text": "",
+        "bitmap": "",
+        "bbox": []
+    },
+    {
+        "name": "smart_object_layer_page_square_size_128x128",
+        "human_name": "page_square",
+        "index": "2001",
+        "kind": "smartobject",
+        "text": "",
+        "bitmap": "slides/common_smart_object_layer_page_square.png",
+        "bbox": [
+            3696,
+            1994,
+            3824,
+            2122
+        ]
+    },
+    {
+        "name": "type_layer_page_03_size_97x67",
+        "human_name": "page_03",
+        "index": "2002",
+        "kind": "type",
+        "text": "",
+        "bitmap": "slides/slide_05_type_layer_page_03_size_97x67_1.png",
+        "bbox": [
+            3712,
+            2012,
+            3809,
+            2079
+        ]
+    },
+    {
+        "name": "group_pages_size_128x128",
+        "human_name": "pages",
+        "index": "1002",
+        "kind": "group",
+        "text": "",
+        "bitmap": "",
+        "bbox": []
+    }
+]

@@ -28,16 +28,16 @@
         ]
     },
     {
-        "name": "type_layer_page_02_size_94x67",
+        "name": "type_layer_page_02_size_108x67",
         "human_name": "page_02",
         "index": "2002",
         "kind": "type",
         "text": "",
-        "bitmap": "slides/slide_03_type_layer_page_02_size_94x67_1.png",
+        "bitmap": "slides/slide_04_type_layer_page_02_size_108x67_1.png",
         "bbox": [
-            3712,
+            3705,
             2013,
-            3806,
+            3813,
             2080
         ]
     },

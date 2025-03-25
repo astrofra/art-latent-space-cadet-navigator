@@ -240,7 +240,7 @@
 					"textures": [
 						{
 							"name": "uBaseOpacityMap",
-							"path": "slides/slide_03_type_layer_page_02_size_94x67_1.png",
+							"path": "slides/slide_04_type_layer_page_02_size_108x67_1.png",
 							"stage": 0
 						}
 					],
@@ -354,7 +354,7 @@
 				0.0
 			],
 			"scl": [
-				94.0,
+				108.0,
 				67.0,
 				1.0
 			]
