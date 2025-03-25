@@ -25,13 +25,14 @@ This navigator is part of the *DoppleRender* exhibition. The installation offers
 ## Explore
 
 Want to dive deeper?
-- [Instagram feed](https://www.instagram.com/latent.space.cadet/)
+- [Instagram feed](https://www.instagram.com/latentspacecadet/)
 - [BlueSky profile](https://bsky.app/profile/latentspacecadet.bsky.social)
 - [GitHub Repo](https://github.com/astrofra/latent-space-cadet-navigator)
 
 ## Credits
 
-Created by [François Gutherz](https://github.com/astrofra)  
-Supported by [Crous Orléans-Tours](https://www.crous-orleans-tours.fr/) & JACES 2025  
+Created by [François Gutherz](https://github.com/astrofra)<br>
+Part of this project was first presented during [Matricule Bis 2023](https://sites.google.com/view/matricule-bis-2023)<br>
+Supported by [Crous Orléans-Tours](https://www.crous-orleans-tours.fr/) & [JACES 2025](https://www.journees-arts-culture-sup.fr/)<br>
 (The system that supports this interactive kiosk is part of a VAE Master Research in Digital Arts - [Paris 8](https://www.ati-paris8.fr/))
 
