@@ -29,7 +29,7 @@ function SceneLatentSpaceCadetSetup(res, pipeline_info, bg_color, height_ratio)
         local _photo_node = _new_node:GetInstanceSceneView():GetNode(_scene, "photo")
         local _title_node = _new_node:GetInstanceSceneView():GetNode(_scene, "title")
 
-        if _idx == 20 then
+        if _idx == 20 or _idx == 30 then
             local _scale = _ai_node:GetTransform():GetScale()
             _scale.x = _scale.x * (1640.0 / 2048.0)
             _ai_node:GetTransform():SetScale(_scale)

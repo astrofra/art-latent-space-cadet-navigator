@@ -28,5 +28,11 @@ latent_images = {
     {images = {"24_ndsm_0.png", "24_ndsm_1.png"}, title = "Tiers lieu 'NDSM', Amsterdam, 2023."},
     {images = {"25_artschool_0.png", "25_artschool_1.png"}, title = "Installation artistique au Mediacollege, Amsterdam, 2023."},
     {images = {"26_cables_0.png", "26_cables_1.png"}, title = "Urbex sur site ferroviaire, Potsdam, 2010."},
-    {images = {"27_lenses_0.png", "27_lenses_1.png"}, title = "Tiers lieu 'Le 108', Orléans, 2023."}
+    {images = {"27_lenses_0.png", "27_lenses_1.png"}, title = "Tiers lieu 'Le 108', Orléans, 2023."},
+    {images = {"28_monks_berlin_0.png", "28_monks_berlin_1.png"}, title = "Moines vers la porte de Brandebourg, Berlin, 2009."},
+    {images = {"29_monks_laos_0.png", "29_monks_laos_1.png"}, title = "Parc du Bouddha, Vientianne, 2003."},
+    {images = {"30_pola_orleans_0.png", "30_pola_orleans_1.png"}, title = "Polaroïd aléatoire, Orléans, 2001."},
+    {images = {"31_sleeper_rennes_0.png", "31_sleeper_rennes_1.png"}, title = "Le dormeur du Thabor, Rennes, 2003."},
+    {images = {"31_sleeper_tokyo_0.png", "31_sleeper_tokyo_1.png"}, title = "Le dormeur de Ueno, Tokyo, 2001."},
+    {images = {"32_monsieur_chat_0.png", "32_monsieur_chat_1.png"}, title = "Monsieur Chat, Orléans, 2024."}
 }
