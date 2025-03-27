@@ -74,9 +74,9 @@ end
 function SceneLatentSpaceCadetUpdate(ctx, keyboard, gamepad, prev_gamepad, dt, current_clock)
     local dts = hg.time_to_sec_f(dt)
 
-    if keyboard:Released(hg.K_Z) then
+    if keyboard:Released(hg.K_Z) or keyboard:Released(hg.K_Up) then
         ctx.current_photo_cursor = ctx.current_photo_cursor - 1.0
-    elseif keyboard:Released(hg.K_S) then
+    elseif keyboard:Released(hg.K_S)  or keyboard:Released(hg.K_Down) then
         ctx.current_photo_cursor = ctx.current_photo_cursor + 1.0
     end
 
