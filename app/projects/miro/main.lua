@@ -76,10 +76,13 @@ function SceneMiroUpdate(ctx, keyboard, gamepad, prev_gamepad, dt, current_clock
         -- end
         cam_dir.x = gamepad:Axes(hg.GA_RightX)
         cam_dir.y = -gamepad:Axes(hg.GA_RightY)
-        target_zoom_level = map(gamepad:Axes(hg.GA_RightTrigger), -1.0, 1.0, 0.0, 1.0)
-        target_zoom_level = SmoothZoomLevel(target_zoom_level)
-        target_zoom_level = clamp(target_zoom_level, 0.0, 1.0)
-        target_zoom_level = map(target_zoom_level, 0.0, 1.0, 0.0, 1.1)
+        -- target_zoom_level = map(gamepad:Axes(hg.GA_RightTrigger), -1.0, 1.0, 0.0, 1.0)
+        -- target_zoom_level = SmoothZoomLevel(target_zoom_level)
+        -- target_zoom_level = clamp(target_zoom_level, 0.0, 1.0)
+        -- target_zoom_level = map(target_zoom_level, 0.0, 1.0, 0.0, 1.1)
+        if gamepad:Button(hg.GB_ButtonX) == true then
+            target_zoom_level_keyboard = 1.0
+        end
     end
 
     ctx.zoom_level = hg.Lerp(ctx.zoom_level, target_zoom_level + target_zoom_level_keyboard, 0.1)
